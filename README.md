@@ -1,1 +1,1 @@
-# Apprentissage-Statistique-sur-des-probl-mes-de-r-gression
+# Apprentissage Statistique sur des problèmes de régression
