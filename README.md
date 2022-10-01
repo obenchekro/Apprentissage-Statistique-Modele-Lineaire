@@ -1,6 +1,6 @@
 <h1>
 <div align="center">
-Apprentissage Statistique sur des problèmes de régression
+Apprentissage statistique sur des problèmes de régression
 </div>
 </h1>
 
